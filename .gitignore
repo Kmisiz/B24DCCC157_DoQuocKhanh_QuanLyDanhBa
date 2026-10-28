@@ -36,6 +36,8 @@
 **/android/local.properties
 local.properties
 
-# Temporary Office locks
+# Office reports (do not push to git)
+*.docx
+*.doc
 ~$*.docx
 ~$*.doc
