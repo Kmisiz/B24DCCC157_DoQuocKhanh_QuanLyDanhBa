@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quản lý danh bạ</string>
+    <string name="title_login">Đăng nhập hệ thống</string>
+    <string name="title_main">Danh bạ liên hệ</string>
+    <string name="title_add_contact">Thêm liên hệ mới</string>
+    <string name="title_contact_detail">Chi tiết liên hệ</string>
+
+    <string name="login_welcome">QUẢN LÝ DANH BẠ</string>
+    <string name="login_hint">Nhập thông tin tài khoản quản trị</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="error_empty_credentials">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+    <string name="error_invalid_credentials">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="stats_format">Tổng số: %1$d   |   Yêu thích: %2$d</string>
+    <string name="add_contact">+ Thêm liên hệ</string>
+    <string name="empty_contacts">Chưa có liên hệ nào trong danh bạ</string>
+
+    <string name="full_name">Họ và tên</string>
+    <string name="full_name_hint">Nhập họ và tên (VD: Nguyễn Văn An)</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="phone_hint">Nhập 10 số bắt đầu bằng 0</string>
+    <string name="group">Nhóm</string>
+    <string name="gender">Giới tính</string>
+    <string name="gender_male">Nam</string>
+    <string name="gender_female">Nữ</string>
+    <string name="gender_other">Khác</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="favorite_mark">Thêm vào danh sách yêu thích</string>
+    <string name="note">Ghi chú</string>
+    <string name="note_hint">Nhập ghi chú bổ sung (không bắt buộc)...</string>
+    <string name="btn_save">LƯU LIÊN HỆ</string>
+
+    <string name="btn_call">GỌI ĐIỆN</string>
+    <string name="btn_back">QUAY LẠI</string>
+    <string name="btn_delete">XÓA LIÊN HỆ</string>
+    <string name="dialog_delete_title">Xác nhận xóa</string>
+    <string name="dialog_delete_msg">Bạn có chắc chắn muốn xóa liên hệ này khỏi danh bạ không?</string>
+    <string name="action_yes">Xóa</string>
+    <string name="action_no">Hủy</string>
+
+    <string name="msg_added_success">Đã thêm liên hệ thành công!</string>
+    <string name="msg_deleted_success">Đã xóa liên hệ thành công!</string>
+    <string name="err_empty_name">Họ tên không được để trống!</string>
+    <string name="err_invalid_phone">Số điện thoại phải gồm 10 chữ số và bắt đầu bằng số 0!</string>
+    <string name="err_duplicate_phone">Số điện thoại đã tồn tại trong danh bạ!</string>
+
+    <string-array name="contact_groups">
+        <item>Gia đình</item>
+        <item>Bạn bè</item>
+        <item>Công việc</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
